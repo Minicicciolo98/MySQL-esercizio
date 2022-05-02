@@ -1,3 +1,3 @@
 # MySQL-esercizio
 
-Esercizi svolti nell'ambito del corso Generation! Prova
+Esercizi svolti nell'ambito del corso Generation! Prova1
