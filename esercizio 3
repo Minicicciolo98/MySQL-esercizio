@@ -1,0 +1,4 @@
+3.
+select *
+from Romanzo
+where AnnoPubblicazione > 1900
